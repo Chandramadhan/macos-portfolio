@@ -80,7 +80,7 @@ return(()=>{
             {renderText("portfolio", 'text-9xl italic font-georama')}
         </h1>
         <div className="small-screen">
-            <p>This Portfolio is designed for desktop/tabled screens</p>
+            <p>This Portfolio is designed for desktop/tablet screens</p>
         </div>
     </section> 
 }
